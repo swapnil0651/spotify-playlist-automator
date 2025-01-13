@@ -9,3 +9,5 @@ This Terraform project automates the creation and management of Spotify playlist
 - Terraform (version 1.0.0 or later)
 - A Spotify Developer Account with API credentials
 
+
+-Please refer the Master Branch for the files
